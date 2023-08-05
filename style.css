@@ -41,7 +41,7 @@
 } 
 
 
-/* ----------hero-section---------- */
+/* ::::::::::::::hero-section::::::::::::: */
 
 .hero-sec{
     margin-top: 1.5%;
@@ -96,7 +96,7 @@
 
 
 
-/* ---------Collection-section--------- */
+/* :::::::::::::Collection-section::::::::::: */
 
 .collection-sec{
     width: 95vw;
@@ -180,7 +180,7 @@
 
 
 
-/* ------------Latest-collection-section------- */
+/* ::::::::::::::Latest-collection-section:::::::::::: */
 
 .Latest-collection-sec{
     width: 95vw;
@@ -229,7 +229,7 @@
 }
 
 
-/* ------------2021-collecion----------- */
+/* :::::::::::::2021-collecion:::::::::::::::: */
 .collection-sec-2021{
     width: 95vw;
     margin-inline: auto;
@@ -316,7 +316,7 @@
 
 
 
-/* ------------my-footer------------------- */
+/* ::::::::::::::my-footer::::::::::::::: */
 .my-footer{
     width: 100%;
     padding:5%;
@@ -368,7 +368,7 @@
 }
 
 
-/* ----------navsection-mediaquery------ */
+/* :::::::::::::navsection-mediaquery::::::::::: */
 @media screen and (max-width:413px)
 {
     .logo-img{
@@ -387,7 +387,7 @@
 }
 
 
-/* --------hero-section-media-query--------- */
+/* :::::::::::hero-section-media-query::::::::::::: */
 @media screen and (max-width:1200px) {
     .hero-sec{
         display: flex;
@@ -429,7 +429,7 @@
 }
 
 
-/* -----------collection-sec-media-query--------- */
+/* ::::::::::::collection-sec-media-query::::::::::::: */
 @media screen and (max-width:434px) {
 
     .collection-sec>.buttons>button{
